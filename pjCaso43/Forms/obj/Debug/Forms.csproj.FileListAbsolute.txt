@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\bin\Debug\Forms.exe.config
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\bin\Debug\Forms.exe
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\bin\Debug\Forms.pdb
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\obj\Debug\Forms.ExploradorDeSoluciones.resources
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\obj\Debug\Forms.exe
+C:\Users\PC\source\repos\Veranos de Programacion\pjCaso43\Forms\obj\Debug\Forms.pdb
